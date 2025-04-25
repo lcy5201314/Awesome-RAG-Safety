@@ -10,6 +10,8 @@ This project is supported by [ANT group](https://www.antgroup.com/), [Cybersecur
 <!-- 
 ## Jailbreak Attack -->
 
+## LLM
+
 - **BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2406.00083)]
 
 - **PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation  of Large Language Models**.  USENIX Security 2025. [[pdf](https://arxiv.org/abs/2402.07867)]
@@ -36,8 +38,11 @@ This project is supported by [ANT group](https://www.antgroup.com/), [Cybersecur
 
 - **CtrlRAG: Black-box Adversarial Attacks Based on Masked Language Models in Retrieval-Augmented Language Generation**. ArXiv 2025. [[pdf](https://arxiv.org/abs/2503.06950)]
 
-- **Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation**. ArXiv 2025. [[pdf](https://arxiv.org/abs/2503.06254)]
-
 - **The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems**. ArXiv 2025. [[pdf](https://arxiv.org/abs/2502.20995)]
+
+
+## MLLM
+
+- **Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation**. ArXiv 2025. [[pdf](https://arxiv.org/abs/2503.06254)]
 
 - **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**. ArXiv 2025. [[pdf](https://arxiv.org/abs/2502.17832)]
